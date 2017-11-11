@@ -1,2 +1,3 @@
 git push remote 
 git ammend
+git ammend after push
